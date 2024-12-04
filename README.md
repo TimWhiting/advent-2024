@@ -1,0 +1,1 @@
+This repo assumes you have the community [std](https://github.com/koka-community/std/tree/main) library in the Koka include path (-i../path/to/std).
